@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatem-dotnet&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-dotnet&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hatem-dotnet&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatem-dotnet&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
   <a href="https://www.facebook.com/hatem.mustafa.528637" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:hatemmustafamuhammad@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#84ece5f0e1e9e9f1f7f0e5e2e5e9f1ece5e9e9e5e0c4e3e9e5ede8aae7ebe9">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -82,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=hatem-dotnet&label=Profile+Views&color=2196F3&style=flat" />
 </p>
 
-<p align="center">⭐ <i>"The best way to predict the future is to build it."</i> ⭐</p>
+<p align="center">⭐ <i>"The best w
