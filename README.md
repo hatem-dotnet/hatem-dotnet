@@ -82,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=hatem-dotnet&label=Profile+Views&color=2196F3&style=flat" />
 </p>
 
-<p align="center">⭐ <i>"The best w
+<p align="center">⭐ "The best way to predict the future is to build it." ⭐
