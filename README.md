@@ -52,12 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatem-dotnet&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-dotnet&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hatem-dotnet&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-dotnet&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatem-dotnet&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=hatem-dotnet&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
   <a href="https://www.facebook.com/hatem.mustafa.528637" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="/cdn-cgi/l/email-protection#a3cbc2d7c6ceced6d0d7c2c5c2ced6cbc2cecec2c7e3c4cec2cacf8dc0ccce">
+  <a href="mailto:hatemmustafamuhammad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -82,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=hatem-dotnet&label=Profile+Views&color=2196F3&style=flat" />
 </p>
 
-<p align="center">⭐ <i>"The best wa
+<p align="center">⭐ <i>"The best way to predict the future is to build it."</i> ⭐</p>
