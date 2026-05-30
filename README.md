@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hatem Mustafa 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Fullstack+.NET+Developer;ITI+Trainee+%7C+.NET+Full+Stack+Track;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;ITI+Trainee+%7C+.NET+Full+Stack+Track;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 🎓 **Computer Science Graduate** — Faculty of Computers & Information, **Minya University** (Class of 2023)
 
-🏫 **ITI Graduate** — **.NET Full Stack Web Development Track**, Beni Suef Branch *(Jan 2026 – Jun 2026)* ✅
+🏫 **ITI Graduate** — **.NET Full Stack Web Development Track**, Beni Suef Branch *(Jan 2026 – Jun 2026)* 
 
 💡 I'm a **Fullstack .NET Developer** passionate about building clean, scalable web applications using **Clean Architecture**, **SOLID principles**, and **Agile methodologies**.
 
