@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science Graduate** — Faculty of Computers & Information, **Minya University** (Class of 2023)
+🎓 **Bachelor's Degree, Computer Science ** — Faculty of Computers & Information, **Minya University** (Class of 2023)
 
 🏫 **ITI Graduate** — **.NET Full Stack Web Development Track**, Beni Suef Branch *(Jan 2026 – Jun 2026)* 
 
