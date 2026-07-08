@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hatem Mustafa 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full Stack+.NET+Developer;ITI+Trainee+%7C+.NET+Full+Stack+Track;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer%3BITI+Trainee+%7C+.NET+Full+Stack+Track%3BCairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 </p>
 
 ---
