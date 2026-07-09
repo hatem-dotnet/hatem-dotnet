@@ -78,14 +78,10 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛍️ Al-Saeed Store — Online Perfume & Oud Shop *(Freelance)*
-> Full e-commerce platform with 500+ products built with Clean Architecture
+## 🚀 Experience
+### 🛍️ ARAQA Store — Online Perfume & Oud Shop *(Freelance)*
+> Full e-commerce platform built with Clean Architecture
 - **Stack:** Angular · TypeScript · ASP.NET Core · RESTful APIs · EF Core · SQL Server · JWT · Paymob Integration
-
-### 🗂️ [HR Database Project — MSSQL](https://github.com/hatem-dotnet/HR_Database_Project_MSSQL)
-> Comprehensive HR database system with real-world business logic built on Microsoft SQL Server
 
 ---
 
